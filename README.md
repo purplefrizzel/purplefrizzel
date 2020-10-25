@@ -11,7 +11,7 @@
 </a>
 
 
-## Some random snippets :srug:
+## Some random snippets :shrug:
 
 **Loop of boom**
 
@@ -20,4 +20,4 @@ while (true) {
   console.log(Math.floor(Math.random() * 100))
 }
 ```
-<small>If you are feeling brave paste this into the dev tools console :laugh:</small>
+<small>If you are feeling brave paste this into the dev tools console :sweat_smile:</small>
