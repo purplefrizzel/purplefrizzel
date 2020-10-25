@@ -22,7 +22,7 @@ while (true) {
 ```
 <small>If you are feeling brave paste this into the dev tools console :sweat_smile:</small>
 
-**Random six digit generator**
+**Random char generator**
 ```javascript
 function randomizer(len) {
   const charSet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
