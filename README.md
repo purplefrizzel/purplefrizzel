@@ -11,8 +11,6 @@
 </a>
 
 
-
-
 ## Some random snippets :shrug:
 
 **Loop of boom**
@@ -23,3 +21,19 @@ while (true) {
 }
 ```
 <small>If you are feeling brave paste this into the dev tools console :sweat_smile:</small>
+
+**Random six digit generator**
+```javascript
+function randomizer(len) {
+  const charSet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+  let randomStr = "";
+
+   for (let i = 0; i < len; i++) {
+    const randomPoz = Math.floor(Math.random() * charSet.length);
+    randomStr += charSet.substring(randomPoz, randomPoz + 1);
+  }
+  
+  return randomStr
+}
+```
+<small>I use this one a lot :joy:</small>
