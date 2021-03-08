@@ -11,29 +11,8 @@
 </a>
 
 
-## Some random snippets :shrug:
-
-**Loop of boom**
-
-```javascript
-while (true) {
-  console.log(Math.floor(Math.random() * 100))
-}
-```
-<small>If you are feeling brave paste this into the dev tools console :sweat_smile:</small>
-
-**Random char generator**
-```javascript
-function randomizer(len) {
-  const charSet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-  let randomStr = "";
-
-   for (let i = 0; i < len; i++) {
-    const randomPoz = Math.floor(Math.random() * charSet.length);
-    randomStr += charSet.substring(randomPoz, randomPoz + 1);
-  }
-  
-  return randomStr
-}
-```
-<small>I use this one a lot :joy:</small>
+## Useful links
+* <a href="https://purplefrizzel.com">My website</a>
+* <a href="https://github.com/purplefrizzel">Github</a>
+* <a href="https://stackoverflow.com/users/11698664/lew?tab=profile">Stackoverflow</a>
+* <a href="https://twitter.com">Twitter</a>
