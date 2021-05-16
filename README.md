@@ -17,4 +17,5 @@
 * <a href="https://stackoverflow.com/users/11698664/lew?tab=profile">Stackoverflow</a>
 * <a href="https://twitter.com">Twitter</a>
 
+## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purplefrizzel&show_icons=true&theme=onedark&title_color=559cd3&text_color=ffffff&bg_color=141414&locale=en&layout=compact" alt="Purplefrizzel's top languages" />
