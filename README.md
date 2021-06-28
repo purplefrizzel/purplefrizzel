@@ -1,14 +1,4 @@
-## :wave: Hey, I'm Lew
-
-**Profiles**
-
-<a href="https://dev.to/purplefrizzel">
-  DEV Profile
-</a>
-<a href="https://twitter.com/purplefrizzel">
-  Twitter
-</a>
-
+# :wave: Hey, I'm Lew
 
 ## Useful links
 * <a href="https://purplefrizzel.com">My website</a>
