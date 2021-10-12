@@ -1,10 +1,7 @@
-# :wave: Hey, I'm Lew
+# Lewis
+Hey :wave:, look I didn't really know what to write here so come back later, I guess 🤷‍♂️.
 
-## Useful links
-* <a href="https://purplefrizzel.com">My website</a>
-* <a href="https://github.com/purplefrizzel">Github</a>
-* <a href="https://stackoverflow.com/users/11698664/lew?tab=profile">Stackoverflow</a>
-* <a href="https://twitter.com">Twitter</a>
+In the mean time you could check out my website [here](https://purplefrizzel.com).
 
-## Stats
+### Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purplefrizzel&show_icons=true&theme=onedark&title_color=559cd3&text_color=ffffff&bg_color=141414&locale=en&layout=compact" alt="Purplefrizzel's top languages" />
