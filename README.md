@@ -5,3 +5,5 @@ In the mean time you could check out my website [here](https://purplefrizzel.com
 
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=purplefrizzel&show_icons=true&theme=onedark&title_color=559cd3&text_color=ffffff&bg_color=141414&locale=en&layout=compact" alt="Purplefrizzel's top languages" />
+
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=purplefrizzel&theme=dark" alt="Purplefrizzel's commit streaks" />
